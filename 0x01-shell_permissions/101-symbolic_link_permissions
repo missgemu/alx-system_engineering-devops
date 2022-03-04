@@ -1,2 +1,2 @@
-#!/bin/bash
-chown -from=guillaume betty hello
+ln -s hello_hello
+echo -e '#!/bin/bash\nchown -h vincent:staff_hello' > 101-symbolic_link_permissions
